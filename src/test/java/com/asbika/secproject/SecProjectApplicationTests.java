@@ -1,0 +1,13 @@
+package com.asbika.secproject;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SecProjectApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
